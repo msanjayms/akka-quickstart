@@ -1,6 +1,6 @@
-package org.mylearning.akka;
+package org.mylearning.akka.mysample;
 
-import org.mylearning.akka.HelloWorld.Greet;
+import org.mylearning.akka.mysample.HelloWorld.Greet;
 
 import akka.actor.typed.ActorRef;
 import akka.actor.typed.ActorSystem;

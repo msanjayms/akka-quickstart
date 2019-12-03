@@ -1,4 +1,4 @@
-package org.mylearning.akka;
+package org.mylearning.akka.mysample;
 
 import akka.actor.typed.Behavior;
 import akka.actor.typed.javadsl.AbstractBehavior;
